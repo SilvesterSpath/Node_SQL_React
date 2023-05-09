@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=fPuLnzSjPLE&ab_channel=LamaDev
+
+dev.mysql.com/downloads/mysql
+Community downloads
+https://dev.mysql.com/downloads/
+
+If server not running:
+  - windows + R: services.msc look for Mysql80 and run it
+
+If I want to use ES6 syntax in package.json I have to add "type": "module"
+
+if authentication problem:
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Swx760528!';
+flush privileges
+
+- this provides security: VALUES (?)
+- by default we cant send data to the server
+
+18:32
+!- this creates react-app in the current directory: 'npx create-react-app@latest .'
